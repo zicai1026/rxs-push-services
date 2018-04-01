@@ -1,4 +1,4 @@
-<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v3">
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v1">
   <prescription link="/greenify/rx-mipush" />
   <prescription link="/greenify/rx-mipush-wakeups" />
   <prescription link="/greenify/rx-baidu-push" />
