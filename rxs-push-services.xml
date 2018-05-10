@@ -7,5 +7,5 @@
   <prescription link="/oasisfeng/rx-getui-wakeups" />
   <!--自定义规则-->
   <prescription type="activity" class="cn.ipush.android.service.DaemonService" sender="other-app"/>
-  <prescription type="activity" class="com.huawei.android.pushagent.PushBootReceiver" sender="other-app"/>
+  <prescription type="service" class="com.huawei.android.pushagent.PushBootReceiver" sender="other-app"/>
 </prescriptions>
